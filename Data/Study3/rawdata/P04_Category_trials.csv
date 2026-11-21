@@ -1,0 +1,451 @@
+block,trial,modality,face_file,voice_file,face_model_id,face_morph,voice_model_id,voice_morph,resp_label
+1,1,av,Stimuli/Face Stimuli/formal_gray/m_Y58M_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_80.wav,m_Y58M,80,6.0,80,disgust
+1,2,av,Stimuli/Face Stimuli/formal_gray/m_Y24M_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_80.wav,m_Y24M,80,42.0,80,disgust
+1,3,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_80.wav,None,None,59.0,80,disgust
+1,4,av,Stimuli/Face Stimuli/formal_gray/m_Y58M_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_80.wav,m_Y58M,50,6.0,80,disgust
+1,5,av,Stimuli/Face Stimuli/formal_gray/m_Y57M_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_20.wav,m_Y57M,80,59.0,20,angry
+1,6,av,Stimuli/Face Stimuli/formal_gray/m_Y24M_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_80.wav,m_Y24M,20,42.0,80,disgust
+1,7,av,Stimuli/Face Stimuli/formal_gray/m_Y58M_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_50.wav,m_Y58M,20,6.0,50,disgust
+1,8,av,Stimuli/Face Stimuli/formal_gray/m_Y59F_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_50.wav,m_Y59F,80,58.0,50,disgust
+1,9,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_80.wav,None,None,42.0,80,disgust
+1,10,av,Stimuli/Face Stimuli/formal_gray/m_Y6F_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_50.wav,m_Y6F,80,60.0,50,disgust
+1,11,av,Stimuli/Face Stimuli/formal_gray/m_Y59F_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_20.wav,m_Y59F,50,58.0,20,angry
+1,12,av,Stimuli/Face Stimuli/formal_gray/m_Y57M_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_20.wav,m_Y57M,20,59.0,20,angry
+1,13,vision,Stimuli/Face Stimuli/formal_gray/m_Y58M_80.jpg,None,m_Y58M,80,None,None,disgust
+1,14,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_80.wav,None,None,58.0,80,disgust
+1,15,av,Stimuli/Face Stimuli/formal_gray/m_Y24M_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_50.wav,m_Y24M,50,42.0,50,disgust
+1,16,av,Stimuli/Face Stimuli/formal_gray/m_Y6F_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_80.wav,m_Y6F,50,60.0,80,disgust
+1,17,av,Stimuli/Face Stimuli/formal_gray/m_Y6F_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_50.wav,m_Y6F,50,60.0,50,disgust
+1,18,av,Stimuli/Face Stimuli/formal_gray/m_Y59F_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_20.wav,m_Y59F,80,58.0,20,angry
+1,19,av,Stimuli/Face Stimuli/formal_gray/m_Y4F_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_20.wav,m_Y4F,80,53.0,20,angry
+1,20,vision,Stimuli/Face Stimuli/formal_gray/m_Y4F_20.jpg,None,m_Y4F,20,None,None,angry
+1,21,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_20.wav,None,None,42.0,20,disgust
+1,22,vision,Stimuli/Face Stimuli/formal_gray/m_Y59F_50.jpg,None,m_Y59F,50,None,None,disgust
+1,23,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_50.wav,None,None,6.0,50,disgust
+1,24,av,Stimuli/Face Stimuli/formal_gray/m_Y6F_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_20.wav,m_Y6F,50,60.0,20,angry
+1,25,av,Stimuli/Face Stimuli/formal_gray/m_Y57M_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_80.wav,m_Y57M,80,59.0,80,disgust
+1,26,av,Stimuli/Face Stimuli/formal_gray/m_Y57M_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_50.wav,m_Y57M,50,59.0,50,disgust
+1,27,av,Stimuli/Face Stimuli/formal_gray/m_Y4F_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_50.wav,m_Y4F,80,53.0,50,disgust
+1,28,vision,Stimuli/Face Stimuli/formal_gray/m_Y57M_20.jpg,None,m_Y57M,20,None,None,angry
+1,29,av,Stimuli/Face Stimuli/formal_gray/m_Y24M_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_20.wav,m_Y24M,20,42.0,20,angry
+1,30,av,Stimuli/Face Stimuli/formal_gray/m_Y4F_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_80.wav,m_Y4F,80,53.0,80,disgust
+1,31,vision,Stimuli/Face Stimuli/formal_gray/m_Y4F_80.jpg,None,m_Y4F,80,None,None,disgust
+1,32,av,Stimuli/Face Stimuli/formal_gray/m_Y4F_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_80.wav,m_Y4F,20,53.0,80,angry
+1,33,av,Stimuli/Face Stimuli/formal_gray/m_Y57M_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_80.wav,m_Y57M,20,59.0,80,angry
+1,34,vision,Stimuli/Face Stimuli/formal_gray/m_Y24M_50.jpg,None,m_Y24M,50,None,None,disgust
+1,35,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_20.wav,None,None,6.0,20,angry
+1,36,vision,Stimuli/Face Stimuli/formal_gray/m_Y6F_80.jpg,None,m_Y6F,80,None,None,angry
+1,37,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_50.wav,None,None,42.0,50,disgust
+1,38,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_80.wav,None,None,60.0,80,disgust
+1,39,av,Stimuli/Face Stimuli/formal_gray/m_Y58M_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_50.wav,m_Y58M,50,6.0,50,angry
+1,40,vision,Stimuli/Face Stimuli/formal_gray/m_Y57M_50.jpg,None,m_Y57M,50,None,None,disgust
+1,41,av,Stimuli/Face Stimuli/formal_gray/m_Y59F_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_80.wav,m_Y59F,20,58.0,80,angry
+1,42,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_20.wav,None,None,53.0,20,angry
+1,43,vision,Stimuli/Face Stimuli/formal_gray/m_Y24M_80.jpg,None,m_Y24M,80,None,None,disgust
+1,44,av,Stimuli/Face Stimuli/formal_gray/m_Y6F_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_80.wav,m_Y6F,80,60.0,80,angry
+1,45,av,Stimuli/Face Stimuli/formal_gray/m_Y6F_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_50.wav,m_Y6F,20,60.0,50,angry
+1,46,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_20.wav,None,None,58.0,20,angry
+1,47,av,Stimuli/Face Stimuli/formal_gray/m_Y59F_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_50.wav,m_Y59F,20,58.0,50,angry
+1,48,av,Stimuli/Face Stimuli/formal_gray/m_Y24M_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_20.wav,m_Y24M,50,42.0,20,disgust
+1,49,av,Stimuli/Face Stimuli/formal_gray/m_Y59F_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_50.wav,m_Y59F,50,58.0,50,disgust
+1,50,vision,Stimuli/Face Stimuli/formal_gray/m_Y58M_50.jpg,None,m_Y58M,50,None,None,angry
+1,51,vision,Stimuli/Face Stimuli/formal_gray/m_Y24M_20.jpg,None,m_Y24M,20,None,None,angry
+1,52,av,Stimuli/Face Stimuli/formal_gray/m_Y59F_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_20.wav,m_Y59F,20,58.0,20,disgust
+1,53,av,Stimuli/Face Stimuli/formal_gray/m_Y4F_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_80.wav,m_Y4F,50,53.0,80,disgust
+1,54,av,Stimuli/Face Stimuli/formal_gray/m_Y57M_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_80.wav,m_Y57M,50,59.0,80,disgust
+1,55,vision,Stimuli/Face Stimuli/formal_gray/m_Y59F_20.jpg,None,m_Y59F,20,None,None,angry
+1,56,av,Stimuli/Face Stimuli/formal_gray/m_Y59F_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_80.wav,m_Y59F,50,58.0,80,disgust
+1,57,av,Stimuli/Face Stimuli/formal_gray/m_Y24M_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_50.wav,m_Y24M,80,42.0,50,disgust
+1,58,av,Stimuli/Face Stimuli/formal_gray/m_Y58M_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_20.wav,m_Y58M,50,6.0,20,disgust
+1,59,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_50.wav,None,None,53.0,50,disgust
+1,60,av,Stimuli/Face Stimuli/formal_gray/m_Y58M_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_80.wav,m_Y58M,20,6.0,80,angry
+1,61,vision,Stimuli/Face Stimuli/formal_gray/m_Y6F_20.jpg,None,m_Y6F,20,None,None,angry
+1,62,av,Stimuli/Face Stimuli/formal_gray/m_Y24M_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_80.wav,m_Y24M,50,42.0,80,angry
+1,63,av,Stimuli/Face Stimuli/formal_gray/m_Y24M_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_20.wav,m_Y24M,80,42.0,20,disgust
+1,64,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_20.wav,None,None,60.0,20,angry
+1,65,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_80.wav,None,None,6.0,80,disgust
+1,66,av,Stimuli/Face Stimuli/formal_gray/m_Y57M_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_50.wav,m_Y57M,20,59.0,50,angry
+1,67,av,Stimuli/Face Stimuli/formal_gray/m_Y57M_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_20.wav,m_Y57M,50,59.0,20,angry
+1,68,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_50.wav,None,None,58.0,50,angry
+1,69,vision,Stimuli/Face Stimuli/formal_gray/m_Y59F_80.jpg,None,m_Y59F,80,None,None,disgust
+1,70,av,Stimuli/Face Stimuli/formal_gray/m_Y6F_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_80.wav,m_Y6F,20,60.0,80,disgust
+1,71,av,Stimuli/Face Stimuli/formal_gray/m_Y58M_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_50.wav,m_Y58M,80,6.0,50,disgust
+1,72,av,Stimuli/Face Stimuli/formal_gray/m_Y59F_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_80.wav,m_Y59F,80,58.0,80,disgust
+1,73,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_50.wav,None,None,60.0,50,disgust
+1,74,vision,Stimuli/Face Stimuli/formal_gray/m_Y57M_80.jpg,None,m_Y57M,80,None,None,disgust
+1,75,av,Stimuli/Face Stimuli/formal_gray/m_Y6F_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_20.wav,m_Y6F,20,60.0,20,angry
+1,76,av,Stimuli/Face Stimuli/formal_gray/m_Y6F_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_20.wav,m_Y6F,80,60.0,20,angry
+1,77,vision,Stimuli/Face Stimuli/formal_gray/m_Y4F_50.jpg,None,m_Y4F,50,None,None,disgust
+1,78,vision,Stimuli/Face Stimuli/formal_gray/m_Y58M_20.jpg,None,m_Y58M,20,None,None,angry
+1,79,av,Stimuli/Face Stimuli/formal_gray/m_Y4F_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_20.wav,m_Y4F,20,53.0,20,angry
+1,80,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_50.wav,None,None,59.0,50,disgust
+1,81,av,Stimuli/Face Stimuli/formal_gray/m_Y58M_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_20.wav,m_Y58M,20,6.0,20,angry
+1,82,av,Stimuli/Face Stimuli/formal_gray/m_Y24M_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_50.wav,m_Y24M,20,42.0,50,angry
+1,83,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_80.wav,None,None,53.0,80,disgust
+1,84,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_20.wav,None,None,59.0,20,angry
+1,85,av,Stimuli/Face Stimuli/formal_gray/m_Y4F_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_20.wav,m_Y4F,50,53.0,20,angry
+1,86,av,Stimuli/Face Stimuli/formal_gray/m_Y57M_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_50.wav,m_Y57M,80,59.0,50,angry
+1,87,vision,Stimuli/Face Stimuli/formal_gray/m_Y6F_50.jpg,None,m_Y6F,50,None,None,angry
+1,88,av,Stimuli/Face Stimuli/formal_gray/m_Y4F_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_50.wav,m_Y4F,50,53.0,50,disgust
+1,89,av,Stimuli/Face Stimuli/formal_gray/m_Y58M_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_20.wav,m_Y58M,80,6.0,20,angry
+1,90,av,Stimuli/Face Stimuli/formal_gray/m_Y4F_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_50.wav,m_Y4F,20,53.0,50,angry
+2,91,av,Stimuli/Face Stimuli/formal_gray/m_Y4F_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_80.wav,m_Y4F,20,53.0,80,angry
+2,92,vision,Stimuli/Face Stimuli/formal_gray/m_Y59F_80.jpg,None,m_Y59F,80,None,None,disgust
+2,93,av,Stimuli/Face Stimuli/formal_gray/m_Y24M_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_20.wav,m_Y24M,20,42.0,20,angry
+2,94,av,Stimuli/Face Stimuli/formal_gray/m_Y57M_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_80.wav,m_Y57M,50,59.0,80,angry
+2,95,vision,Stimuli/Face Stimuli/formal_gray/m_Y6F_80.jpg,None,m_Y6F,80,None,None,disgust
+2,96,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_50.wav,None,None,53.0,50,disgust
+2,97,av,Stimuli/Face Stimuli/formal_gray/m_Y57M_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_80.wav,m_Y57M,80,59.0,80,disgust
+2,98,vision,Stimuli/Face Stimuli/formal_gray/m_Y4F_50.jpg,None,m_Y4F,50,None,None,disgust
+2,99,av,Stimuli/Face Stimuli/formal_gray/m_Y58M_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_50.wav,m_Y58M,80,6.0,50,disgust
+2,100,av,Stimuli/Face Stimuli/formal_gray/m_Y58M_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_20.wav,m_Y58M,50,6.0,20,angry
+2,101,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_50.wav,None,None,42.0,50,angry
+2,102,av,Stimuli/Face Stimuli/formal_gray/m_Y58M_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_50.wav,m_Y58M,20,6.0,50,angry
+2,103,av,Stimuli/Face Stimuli/formal_gray/m_Y24M_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_80.wav,m_Y24M,50,42.0,80,angry
+2,104,av,Stimuli/Face Stimuli/formal_gray/m_Y6F_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_50.wav,m_Y6F,50,60.0,50,angry
+2,105,av,Stimuli/Face Stimuli/formal_gray/m_Y4F_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_20.wav,m_Y4F,50,53.0,20,angry
+2,106,av,Stimuli/Face Stimuli/formal_gray/m_Y24M_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_20.wav,m_Y24M,80,42.0,20,disgust
+2,107,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_20.wav,None,None,58.0,20,angry
+2,108,av,Stimuli/Face Stimuli/formal_gray/m_Y58M_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_50.wav,m_Y58M,50,6.0,50,angry
+2,109,av,Stimuli/Face Stimuli/formal_gray/m_Y59F_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_20.wav,m_Y59F,50,58.0,20,angry
+2,110,av,Stimuli/Face Stimuli/formal_gray/m_Y59F_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_80.wav,m_Y59F,50,58.0,80,angry
+2,111,vision,Stimuli/Face Stimuli/formal_gray/m_Y58M_80.jpg,None,m_Y58M,80,None,None,angry
+2,112,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_80.wav,None,None,53.0,80,disgust
+2,113,vision,Stimuli/Face Stimuli/formal_gray/m_Y58M_20.jpg,None,m_Y58M,20,None,None,angry
+2,114,vision,Stimuli/Face Stimuli/formal_gray/m_Y24M_20.jpg,None,m_Y24M,20,None,None,angry
+2,115,av,Stimuli/Face Stimuli/formal_gray/m_Y6F_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_20.wav,m_Y6F,80,60.0,20,angry
+2,116,av,Stimuli/Face Stimuli/formal_gray/m_Y6F_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_80.wav,m_Y6F,80,60.0,80,disgust
+2,117,vision,Stimuli/Face Stimuli/formal_gray/m_Y57M_80.jpg,None,m_Y57M,80,None,None,disgust
+2,118,av,Stimuli/Face Stimuli/formal_gray/m_Y58M_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_80.wav,m_Y58M,80,6.0,80,angry
+2,119,av,Stimuli/Face Stimuli/formal_gray/m_Y4F_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_80.wav,m_Y4F,80,53.0,80,disgust
+2,120,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_20.wav,None,None,59.0,20,angry
+2,121,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_20.wav,None,None,60.0,20,angry
+2,122,vision,Stimuli/Face Stimuli/formal_gray/m_Y6F_50.jpg,None,m_Y6F,50,None,None,angry
+2,123,av,Stimuli/Face Stimuli/formal_gray/m_Y57M_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_20.wav,m_Y57M,80,59.0,20,angry
+2,124,av,Stimuli/Face Stimuli/formal_gray/m_Y6F_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_80.wav,m_Y6F,50,60.0,80,disgust
+2,125,av,Stimuli/Face Stimuli/formal_gray/m_Y24M_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_20.wav,m_Y24M,50,42.0,20,angry
+2,126,av,Stimuli/Face Stimuli/formal_gray/m_Y6F_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_50.wav,m_Y6F,80,60.0,50,disgust
+2,127,av,Stimuli/Face Stimuli/formal_gray/m_Y57M_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_80.wav,m_Y57M,20,59.0,80,angry
+2,128,av,Stimuli/Face Stimuli/formal_gray/m_Y58M_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_20.wav,m_Y58M,20,6.0,20,angry
+2,129,av,Stimuli/Face Stimuli/formal_gray/m_Y57M_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_50.wav,m_Y57M,80,59.0,50,angry
+2,130,av,Stimuli/Face Stimuli/formal_gray/m_Y59F_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_50.wav,m_Y59F,50,58.0,50,disgust
+2,131,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_50.wav,None,None,6.0,50,angry
+2,132,vision,Stimuli/Face Stimuli/formal_gray/m_Y58M_50.jpg,None,m_Y58M,50,None,None,angry
+2,133,av,Stimuli/Face Stimuli/formal_gray/m_Y59F_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_20.wav,m_Y59F,20,58.0,20,angry
+2,134,vision,Stimuli/Face Stimuli/formal_gray/m_Y24M_50.jpg,None,m_Y24M,50,None,None,disgust
+2,135,vision,Stimuli/Face Stimuli/formal_gray/m_Y59F_20.jpg,None,m_Y59F,20,None,None,disgust
+2,136,av,Stimuli/Face Stimuli/formal_gray/m_Y24M_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_80.wav,m_Y24M,80,42.0,80,disgust
+2,137,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_80.wav,None,None,58.0,80,disgust
+2,138,av,Stimuli/Face Stimuli/formal_gray/m_Y57M_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_50.wav,m_Y57M,20,59.0,50,angry
+2,139,vision,Stimuli/Face Stimuli/formal_gray/m_Y57M_50.jpg,None,m_Y57M,50,None,None,angry
+2,140,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_80.wav,None,None,60.0,80,disgust
+2,141,av,Stimuli/Face Stimuli/formal_gray/m_Y58M_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_20.wav,m_Y58M,80,6.0,20,angry
+2,142,vision,Stimuli/Face Stimuli/formal_gray/m_Y59F_50.jpg,None,m_Y59F,50,None,None,disgust
+2,143,av,Stimuli/Face Stimuli/formal_gray/m_Y24M_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_50.wav,m_Y24M,20,42.0,50,angry
+2,144,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_80.wav,None,None,6.0,80,angry
+2,145,av,Stimuli/Face Stimuli/formal_gray/m_Y6F_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_20.wav,m_Y6F,50,60.0,20,angry
+2,146,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_20.wav,None,None,53.0,20,angry
+2,147,av,Stimuli/Face Stimuli/formal_gray/m_Y4F_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_80.wav,m_Y4F,50,53.0,80,disgust
+2,148,av,Stimuli/Face Stimuli/formal_gray/m_Y24M_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_80.wav,m_Y24M,20,42.0,80,angry
+2,149,av,Stimuli/Face Stimuli/formal_gray/m_Y59F_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_20.wav,m_Y59F,80,58.0,20,angry
+2,150,vision,Stimuli/Face Stimuli/formal_gray/m_Y4F_80.jpg,None,m_Y4F,80,None,None,disgust
+2,151,av,Stimuli/Face Stimuli/formal_gray/m_Y4F_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_50.wav,m_Y4F,80,53.0,50,disgust
+2,152,av,Stimuli/Face Stimuli/formal_gray/m_Y57M_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_20.wav,m_Y57M,20,59.0,20,angry
+2,153,av,Stimuli/Face Stimuli/formal_gray/m_Y6F_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_80.wav,m_Y6F,20,60.0,80,angry
+2,154,av,Stimuli/Face Stimuli/formal_gray/m_Y57M_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_50.wav,m_Y57M,50,59.0,50,angry
+2,155,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_50.wav,None,None,60.0,50,disgust
+2,156,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_80.wav,None,None,42.0,80,disgust
+2,157,vision,Stimuli/Face Stimuli/formal_gray/m_Y4F_20.jpg,None,m_Y4F,20,None,None,angry
+2,158,av,Stimuli/Face Stimuli/formal_gray/m_Y4F_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_20.wav,m_Y4F,80,53.0,20,disgust
+2,159,vision,Stimuli/Face Stimuli/formal_gray/m_Y6F_20.jpg,None,m_Y6F,20,None,None,angry
+2,160,av,Stimuli/Face Stimuli/formal_gray/m_Y58M_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_80.wav,m_Y58M,20,6.0,80,angry
+2,161,av,Stimuli/Face Stimuli/formal_gray/m_Y4F_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_20.wav,m_Y4F,20,53.0,20,angry
+2,162,vision,Stimuli/Face Stimuli/formal_gray/m_Y24M_80.jpg,None,m_Y24M,80,None,None,disgust
+2,163,av,Stimuli/Face Stimuli/formal_gray/m_Y4F_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_50.wav,m_Y4F,50,53.0,50,angry
+2,164,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_80.wav,None,None,59.0,80,disgust
+2,165,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_20.wav,None,None,42.0,20,angry
+2,166,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_50.wav,None,None,58.0,50,disgust
+2,167,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_20.wav,None,None,6.0,20,angry
+2,168,av,Stimuli/Face Stimuli/formal_gray/m_Y58M_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_80.wav,m_Y58M,50,6.0,80,angry
+2,169,av,Stimuli/Face Stimuli/formal_gray/m_Y59F_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_80.wav,m_Y59F,80,58.0,80,disgust
+2,170,av,Stimuli/Face Stimuli/formal_gray/m_Y24M_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_50.wav,m_Y24M,50,42.0,50,disgust
+2,171,av,Stimuli/Face Stimuli/formal_gray/m_Y24M_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_50.wav,m_Y24M,80,42.0,50,disgust
+2,172,av,Stimuli/Face Stimuli/formal_gray/m_Y59F_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_50.wav,m_Y59F,20,58.0,50,disgust
+2,173,av,Stimuli/Face Stimuli/formal_gray/m_Y57M_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_20.wav,m_Y57M,50,59.0,20,angry
+2,174,vision,Stimuli/Face Stimuli/formal_gray/m_Y57M_20.jpg,None,m_Y57M,20,None,None,angry
+2,175,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_50.wav,None,None,59.0,50,angry
+2,176,av,Stimuli/Face Stimuli/formal_gray/m_Y59F_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_80.wav,m_Y59F,20,58.0,80,disgust
+2,177,av,Stimuli/Face Stimuli/formal_gray/m_Y6F_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_50.wav,m_Y6F,20,60.0,50,angry
+2,178,av,Stimuli/Face Stimuli/formal_gray/m_Y4F_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_50.wav,m_Y4F,20,53.0,50,angry
+2,179,av,Stimuli/Face Stimuli/formal_gray/m_Y59F_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_50.wav,m_Y59F,80,58.0,50,disgust
+2,180,av,Stimuli/Face Stimuli/formal_gray/m_Y6F_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_20.wav,m_Y6F,20,60.0,20,angry
+3,181,av,Stimuli/Face Stimuli/formal_gray/m_Y4F_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_80.wav,m_Y4F,20,53.0,80,disgust
+3,182,av,Stimuli/Face Stimuli/formal_gray/m_Y57M_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_80.wav,m_Y57M,50,59.0,80,disgust
+3,183,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_50.wav,None,None,42.0,50,angry
+3,184,av,Stimuli/Face Stimuli/formal_gray/m_Y58M_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_50.wav,m_Y58M,80,6.0,50,angry
+3,185,av,Stimuli/Face Stimuli/formal_gray/m_Y6F_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_20.wav,m_Y6F,20,60.0,20,angry
+3,186,av,Stimuli/Face Stimuli/formal_gray/m_Y59F_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_80.wav,m_Y59F,80,58.0,80,disgust
+3,187,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_80.wav,None,None,53.0,80,disgust
+3,188,av,Stimuli/Face Stimuli/formal_gray/m_Y59F_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_20.wav,m_Y59F,20,58.0,20,angry
+3,189,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_80.wav,None,None,58.0,80,disgust
+3,190,av,Stimuli/Face Stimuli/formal_gray/m_Y59F_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_20.wav,m_Y59F,80,58.0,20,angry
+3,191,av,Stimuli/Face Stimuli/formal_gray/m_Y4F_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_50.wav,m_Y4F,20,53.0,50,disgust
+3,192,av,Stimuli/Face Stimuli/formal_gray/m_Y57M_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_80.wav,m_Y57M,80,59.0,80,disgust
+3,193,av,Stimuli/Face Stimuli/formal_gray/m_Y59F_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_80.wav,m_Y59F,50,58.0,80,disgust
+3,194,av,Stimuli/Face Stimuli/formal_gray/m_Y6F_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_80.wav,m_Y6F,50,60.0,80,disgust
+3,195,av,Stimuli/Face Stimuli/formal_gray/m_Y58M_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_80.wav,m_Y58M,50,6.0,80,angry
+3,196,vision,Stimuli/Face Stimuli/formal_gray/m_Y24M_20.jpg,None,m_Y24M,20,None,None,angry
+3,197,av,Stimuli/Face Stimuli/formal_gray/m_Y59F_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_50.wav,m_Y59F,20,58.0,50,angry
+3,198,av,Stimuli/Face Stimuli/formal_gray/m_Y24M_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_50.wav,m_Y24M,80,42.0,50,disgust
+3,199,vision,Stimuli/Face Stimuli/formal_gray/m_Y4F_20.jpg,None,m_Y4F,20,None,None,angry
+3,200,av,Stimuli/Face Stimuli/formal_gray/m_Y58M_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_20.wav,m_Y58M,50,6.0,20,angry
+3,201,av,Stimuli/Face Stimuli/formal_gray/m_Y24M_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_50.wav,m_Y24M,50,42.0,50,angry
+3,202,av,Stimuli/Face Stimuli/formal_gray/m_Y24M_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_80.wav,m_Y24M,20,42.0,80,angry
+3,203,av,Stimuli/Face Stimuli/formal_gray/m_Y4F_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_50.wav,m_Y4F,50,53.0,50,disgust
+3,204,vision,Stimuli/Face Stimuli/formal_gray/m_Y24M_50.jpg,None,m_Y24M,50,None,None,angry
+3,205,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_20.wav,None,None,53.0,20,angry
+3,206,av,Stimuli/Face Stimuli/formal_gray/m_Y58M_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_20.wav,m_Y58M,20,6.0,20,angry
+3,207,vision,Stimuli/Face Stimuli/formal_gray/m_Y58M_80.jpg,None,m_Y58M,80,None,None,angry
+3,208,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_20.wav,None,None,6.0,20,angry
+3,209,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_20.wav,None,None,59.0,20,angry
+3,210,vision,Stimuli/Face Stimuli/formal_gray/m_Y57M_20.jpg,None,m_Y57M,20,None,None,angry
+3,211,av,Stimuli/Face Stimuli/formal_gray/m_Y6F_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_80.wav,m_Y6F,80,60.0,80,disgust
+3,212,av,Stimuli/Face Stimuli/formal_gray/m_Y6F_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_50.wav,m_Y6F,50,60.0,50,disgust
+3,213,av,Stimuli/Face Stimuli/formal_gray/m_Y59F_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_20.wav,m_Y59F,50,58.0,20,angry
+3,214,av,Stimuli/Face Stimuli/formal_gray/m_Y24M_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_20.wav,m_Y24M,50,42.0,20,angry
+3,215,av,Stimuli/Face Stimuli/formal_gray/m_Y57M_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_20.wav,m_Y57M,50,59.0,20,angry
+3,216,av,Stimuli/Face Stimuli/formal_gray/m_Y58M_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_20.wav,m_Y58M,80,6.0,20,angry
+3,217,av,Stimuli/Face Stimuli/formal_gray/m_Y57M_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_20.wav,m_Y57M,80,59.0,20,angry
+3,218,vision,Stimuli/Face Stimuli/formal_gray/m_Y4F_50.jpg,None,m_Y4F,50,None,None,angry
+3,219,vision,Stimuli/Face Stimuli/formal_gray/m_Y57M_50.jpg,None,m_Y57M,50,None,None,angry
+3,220,av,Stimuli/Face Stimuli/formal_gray/m_Y58M_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_50.wav,m_Y58M,20,6.0,50,angry
+3,221,av,Stimuli/Face Stimuli/formal_gray/m_Y59F_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_50.wav,m_Y59F,80,58.0,50,disgust
+3,222,av,Stimuli/Face Stimuli/formal_gray/m_Y24M_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_20.wav,m_Y24M,80,42.0,20,disgust
+3,223,av,Stimuli/Face Stimuli/formal_gray/m_Y24M_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_80.wav,m_Y24M,80,42.0,80,disgust
+3,224,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_20.wav,None,None,58.0,20,angry
+3,225,vision,Stimuli/Face Stimuli/formal_gray/m_Y6F_80.jpg,None,m_Y6F,80,None,None,disgust
+3,226,av,Stimuli/Face Stimuli/formal_gray/m_Y57M_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_50.wav,m_Y57M,80,59.0,50,disgust
+3,227,av,Stimuli/Face Stimuli/formal_gray/m_Y58M_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_50.wav,m_Y58M,50,6.0,50,angry
+3,228,av,Stimuli/Face Stimuli/formal_gray/m_Y57M_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_20.wav,m_Y57M,20,59.0,20,angry
+3,229,av,Stimuli/Face Stimuli/formal_gray/m_Y59F_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_80.wav,m_Y59F,20,58.0,80,disgust
+3,230,vision,Stimuli/Face Stimuli/formal_gray/m_Y59F_20.jpg,None,m_Y59F,20,None,None,angry
+3,231,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_50.wav,None,None,53.0,50,angry
+3,232,av,Stimuli/Face Stimuli/formal_gray/m_Y57M_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_80.wav,m_Y57M,20,59.0,80,angry
+3,233,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_50.wav,None,None,58.0,50,disgust
+3,234,av,Stimuli/Face Stimuli/formal_gray/m_Y4F_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_50.wav,m_Y4F,80,53.0,50,disgust
+3,235,av,Stimuli/Face Stimuli/formal_gray/m_Y4F_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_80.wav,m_Y4F,80,53.0,80,disgust
+3,236,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_80.wav,None,None,60.0,80,disgust
+3,237,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_50.wav,None,None,6.0,50,angry
+3,238,av,Stimuli/Face Stimuli/formal_gray/m_Y58M_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_80.wav,m_Y58M,20,6.0,80,angry
+3,239,av,Stimuli/Face Stimuli/formal_gray/m_Y4F_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_20.wav,m_Y4F,50,53.0,20,angry
+3,240,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_50.wav,None,None,59.0,50,angry
+3,241,av,Stimuli/Face Stimuli/formal_gray/m_Y4F_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_20.wav,m_Y4F,80,53.0,20,disgust
+3,242,av,Stimuli/Face Stimuli/formal_gray/m_Y6F_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_20.wav,m_Y6F,80,60.0,20,angry
+3,243,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_80.wav,None,None,59.0,80,disgust
+3,244,av,Stimuli/Face Stimuli/formal_gray/m_Y6F_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_80.wav,m_Y6F,20,60.0,80,disgust
+3,245,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_50.wav,None,None,60.0,50,disgust
+3,246,av,Stimuli/Face Stimuli/formal_gray/m_Y24M_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_80.wav,m_Y24M,50,42.0,80,angry
+3,247,vision,Stimuli/Face Stimuli/formal_gray/m_Y58M_50.jpg,None,m_Y58M,50,None,None,angry
+3,248,vision,Stimuli/Face Stimuli/formal_gray/m_Y58M_20.jpg,None,m_Y58M,20,None,None,angry
+3,249,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_20.wav,None,None,60.0,20,angry
+3,250,vision,Stimuli/Face Stimuli/formal_gray/m_Y24M_80.jpg,None,m_Y24M,80,None,None,disgust
+3,251,av,Stimuli/Face Stimuli/formal_gray/m_Y57M_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_50.wav,m_Y57M,20,59.0,50,angry
+3,252,av,Stimuli/Face Stimuli/formal_gray/m_Y58M_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_80.wav,m_Y58M,80,6.0,80,disgust
+3,253,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_20.wav,None,None,42.0,20,angry
+3,254,av,Stimuli/Face Stimuli/formal_gray/m_Y24M_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_50.wav,m_Y24M,20,42.0,50,angry
+3,255,vision,Stimuli/Face Stimuli/formal_gray/m_Y59F_50.jpg,None,m_Y59F,50,None,None,disgust
+3,256,av,Stimuli/Face Stimuli/formal_gray/m_Y24M_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_20.wav,m_Y24M,20,42.0,20,angry
+3,257,av,Stimuli/Face Stimuli/formal_gray/m_Y59F_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_50.wav,m_Y59F,50,58.0,50,disgust
+3,258,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_80.wav,None,None,42.0,80,angry
+3,259,vision,Stimuli/Face Stimuli/formal_gray/m_Y59F_80.jpg,None,m_Y59F,80,None,None,disgust
+3,260,av,Stimuli/Face Stimuli/formal_gray/m_Y6F_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_50.wav,m_Y6F,20,60.0,50,angry
+3,261,av,Stimuli/Face Stimuli/formal_gray/m_Y6F_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_50.wav,m_Y6F,80,60.0,50,disgust
+3,262,vision,Stimuli/Face Stimuli/formal_gray/m_Y4F_80.jpg,None,m_Y4F,80,None,None,disgust
+3,263,av,Stimuli/Face Stimuli/formal_gray/m_Y57M_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_50.wav,m_Y57M,50,59.0,50,angry
+3,264,vision,Stimuli/Face Stimuli/formal_gray/m_Y57M_80.jpg,None,m_Y57M,80,None,None,disgust
+3,265,av,Stimuli/Face Stimuli/formal_gray/m_Y4F_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_80.wav,m_Y4F,50,53.0,80,disgust
+3,266,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_80.wav,None,None,6.0,80,angry
+3,267,vision,Stimuli/Face Stimuli/formal_gray/m_Y6F_20.jpg,None,m_Y6F,20,None,None,angry
+3,268,av,Stimuli/Face Stimuli/formal_gray/m_Y4F_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_20.wav,m_Y4F,20,53.0,20,angry
+3,269,av,Stimuli/Face Stimuli/formal_gray/m_Y6F_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_20.wav,m_Y6F,50,60.0,20,angry
+3,270,vision,Stimuli/Face Stimuli/formal_gray/m_Y6F_50.jpg,None,m_Y6F,50,None,None,angry
+4,271,vision,Stimuli/Face Stimuli/formal_gray/m_Y58M_50.jpg,None,m_Y58M,50,None,None,angry
+4,272,av,Stimuli/Face Stimuli/formal_gray/m_Y24M_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_80.wav,m_Y24M,50,42.0,80,angry
+4,273,vision,Stimuli/Face Stimuli/formal_gray/m_Y59F_20.jpg,None,m_Y59F,20,None,None,angry
+4,274,av,Stimuli/Face Stimuli/formal_gray/m_Y57M_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_20.wav,m_Y57M,50,59.0,20,angry
+4,275,vision,Stimuli/Face Stimuli/formal_gray/m_Y57M_20.jpg,None,m_Y57M,20,None,None,angry
+4,276,vision,Stimuli/Face Stimuli/formal_gray/m_Y24M_20.jpg,None,m_Y24M,20,None,None,angry
+4,277,av,Stimuli/Face Stimuli/formal_gray/m_Y57M_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_50.wav,m_Y57M,50,59.0,50,angry
+4,278,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_80.wav,None,None,42.0,80,angry
+4,279,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_50.wav,None,None,59.0,50,angry
+4,280,vision,Stimuli/Face Stimuli/formal_gray/m_Y58M_80.jpg,None,m_Y58M,80,None,None,disgust
+4,281,av,Stimuli/Face Stimuli/formal_gray/m_Y4F_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_80.wav,m_Y4F,80,53.0,80,disgust
+4,282,av,Stimuli/Face Stimuli/formal_gray/m_Y4F_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_20.wav,m_Y4F,50,53.0,20,angry
+4,283,av,Stimuli/Face Stimuli/formal_gray/m_Y6F_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_80.wav,m_Y6F,80,60.0,80,disgust
+4,284,av,Stimuli/Face Stimuli/formal_gray/m_Y24M_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_50.wav,m_Y24M,20,42.0,50,angry
+4,285,av,Stimuli/Face Stimuli/formal_gray/m_Y58M_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_20.wav,m_Y58M,80,6.0,20,angry
+4,286,vision,Stimuli/Face Stimuli/formal_gray/m_Y59F_50.jpg,None,m_Y59F,50,None,None,disgust
+4,287,av,Stimuli/Face Stimuli/formal_gray/m_Y59F_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_50.wav,m_Y59F,20,58.0,50,disgust
+4,288,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_20.wav,None,None,6.0,20,angry
+4,289,av,Stimuli/Face Stimuli/formal_gray/m_Y4F_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_20.wav,m_Y4F,80,53.0,20,disgust
+4,290,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_20.wav,None,None,59.0,20,angry
+4,291,av,Stimuli/Face Stimuli/formal_gray/m_Y6F_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_50.wav,m_Y6F,80,60.0,50,disgust
+4,292,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_80.wav,None,None,60.0,80,disgust
+4,293,vision,Stimuli/Face Stimuli/formal_gray/m_Y6F_50.jpg,None,m_Y6F,50,None,None,angry
+4,294,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_80.wav,None,None,58.0,80,disgust
+4,295,av,Stimuli/Face Stimuli/formal_gray/m_Y24M_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_50.wav,m_Y24M,80,42.0,50,disgust
+4,296,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_50.wav,None,None,60.0,50,disgust
+4,297,vision,Stimuli/Face Stimuli/formal_gray/m_Y57M_80.jpg,None,m_Y57M,80,None,None,angry
+4,298,av,Stimuli/Face Stimuli/formal_gray/m_Y57M_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_80.wav,m_Y57M,50,59.0,80,disgust
+4,299,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_20.wav,None,None,42.0,20,angry
+4,300,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_50.wav,None,None,42.0,50,angry
+4,301,av,Stimuli/Face Stimuli/formal_gray/m_Y4F_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_80.wav,m_Y4F,20,53.0,80,angry
+4,302,av,Stimuli/Face Stimuli/formal_gray/m_Y4F_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_50.wav,m_Y4F,50,53.0,50,disgust
+4,303,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_80.wav,None,None,6.0,80,angry
+4,304,av,Stimuli/Face Stimuli/formal_gray/m_Y59F_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_80.wav,m_Y59F,80,58.0,80,disgust
+4,305,av,Stimuli/Face Stimuli/formal_gray/m_Y57M_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_50.wav,m_Y57M,20,59.0,50,angry
+4,306,av,Stimuli/Face Stimuli/formal_gray/m_Y6F_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_50.wav,m_Y6F,50,60.0,50,disgust
+4,307,av,Stimuli/Face Stimuli/formal_gray/m_Y59F_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_50.wav,m_Y59F,50,58.0,50,disgust
+4,308,av,Stimuli/Face Stimuli/formal_gray/m_Y58M_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_50.wav,m_Y58M,20,6.0,50,angry
+4,309,vision,Stimuli/Face Stimuli/formal_gray/m_Y24M_50.jpg,None,m_Y24M,50,None,None,disgust
+4,310,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_50.wav,None,None,6.0,50,angry
+4,311,vision,Stimuli/Face Stimuli/formal_gray/m_Y6F_80.jpg,None,m_Y6F,80,None,None,disgust
+4,312,av,Stimuli/Face Stimuli/formal_gray/m_Y6F_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_20.wav,m_Y6F,80,60.0,20,angry
+4,313,av,Stimuli/Face Stimuli/formal_gray/m_Y57M_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_20.wav,m_Y57M,20,59.0,20,angry
+4,314,av,Stimuli/Face Stimuli/formal_gray/m_Y59F_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_80.wav,m_Y59F,50,58.0,80,disgust
+4,315,av,Stimuli/Face Stimuli/formal_gray/m_Y58M_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_80.wav,m_Y58M,80,6.0,80,angry
+4,316,av,Stimuli/Face Stimuli/formal_gray/m_Y58M_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_50.wav,m_Y58M,80,6.0,50,angry
+4,317,av,Stimuli/Face Stimuli/formal_gray/m_Y24M_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_80.wav,m_Y24M,80,42.0,80,disgust
+4,318,av,Stimuli/Face Stimuli/formal_gray/m_Y59F_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_20.wav,m_Y59F,80,58.0,20,angry
+4,319,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_50.wav,None,None,58.0,50,disgust
+4,320,av,Stimuli/Face Stimuli/formal_gray/m_Y24M_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_20.wav,m_Y24M,50,42.0,20,angry
+4,321,av,Stimuli/Face Stimuli/formal_gray/m_Y24M_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_20.wav,m_Y24M,80,42.0,20,angry
+4,322,av,Stimuli/Face Stimuli/formal_gray/m_Y6F_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_20.wav,m_Y6F,50,60.0,20,angry
+4,323,av,Stimuli/Face Stimuli/formal_gray/m_Y6F_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_80.wav,m_Y6F,50,60.0,80,disgust
+4,324,vision,Stimuli/Face Stimuli/formal_gray/m_Y58M_20.jpg,None,m_Y58M,20,None,None,angry
+4,325,vision,Stimuli/Face Stimuli/formal_gray/m_Y4F_20.jpg,None,m_Y4F,20,None,None,angry
+4,326,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_20.wav,None,None,53.0,20,angry
+4,327,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_50.wav,None,None,53.0,50,angry
+4,328,vision,Stimuli/Face Stimuli/formal_gray/m_Y24M_80.jpg,None,m_Y24M,80,None,None,disgust
+4,329,av,Stimuli/Face Stimuli/formal_gray/m_Y59F_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_80.wav,m_Y59F,20,58.0,80,angry
+4,330,vision,Stimuli/Face Stimuli/formal_gray/m_Y57M_50.jpg,None,m_Y57M,50,None,None,disgust
+4,331,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_20.wav,None,None,58.0,20,angry
+4,332,av,Stimuli/Face Stimuli/formal_gray/m_Y6F_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_50.wav,m_Y6F,20,60.0,50,angry
+4,333,av,Stimuli/Face Stimuli/formal_gray/m_Y24M_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_50.wav,m_Y24M,50,42.0,50,angry
+4,334,av,Stimuli/Face Stimuli/formal_gray/m_Y59F_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_20.wav,m_Y59F,50,58.0,20,disgust
+4,335,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_20.wav,None,None,60.0,20,angry
+4,336,vision,Stimuli/Face Stimuli/formal_gray/m_Y6F_20.jpg,None,m_Y6F,20,None,None,angry
+4,337,av,Stimuli/Face Stimuli/formal_gray/m_Y24M_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_20.wav,m_Y24M,20,42.0,20,angry
+4,338,av,Stimuli/Face Stimuli/formal_gray/m_Y58M_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_50.wav,m_Y58M,50,6.0,50,angry
+4,339,av,Stimuli/Face Stimuli/formal_gray/m_Y57M_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_80.wav,m_Y57M,80,59.0,80,disgust
+4,340,av,Stimuli/Face Stimuli/formal_gray/m_Y57M_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_80.wav,m_Y57M,20,59.0,80,angry
+4,341,av,Stimuli/Face Stimuli/formal_gray/m_Y57M_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_50.wav,m_Y57M,80,59.0,50,angry
+4,342,vision,Stimuli/Face Stimuli/formal_gray/m_Y4F_80.jpg,None,m_Y4F,80,None,None,disgust
+4,343,vision,Stimuli/Face Stimuli/formal_gray/m_Y4F_50.jpg,None,m_Y4F,50,None,None,disgust
+4,344,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_80.wav,None,None,53.0,80,disgust
+4,345,av,Stimuli/Face Stimuli/formal_gray/m_Y6F_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_80.wav,m_Y6F,20,60.0,80,angry
+4,346,vision,Stimuli/Face Stimuli/formal_gray/m_Y59F_80.jpg,None,m_Y59F,80,None,None,disgust
+4,347,av,Stimuli/Face Stimuli/formal_gray/m_Y58M_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_20.wav,m_Y58M,20,6.0,20,angry
+4,348,av,Stimuli/Face Stimuli/formal_gray/m_Y59F_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_50.wav,m_Y59F,80,58.0,50,disgust
+4,349,av,Stimuli/Face Stimuli/formal_gray/m_Y58M_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_80.wav,m_Y58M,50,6.0,80,disgust
+4,350,av,Stimuli/Face Stimuli/formal_gray/m_Y57M_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_20.wav,m_Y57M,80,59.0,20,angry
+4,351,av,Stimuli/Face Stimuli/formal_gray/m_Y4F_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_20.wav,m_Y4F,20,53.0,20,angry
+4,352,av,Stimuli/Face Stimuli/formal_gray/m_Y6F_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_20.wav,m_Y6F,20,60.0,20,angry
+4,353,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_80.wav,None,None,59.0,80,disgust
+4,354,av,Stimuli/Face Stimuli/formal_gray/m_Y4F_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_50.wav,m_Y4F,20,53.0,50,angry
+4,355,av,Stimuli/Face Stimuli/formal_gray/m_Y4F_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_50.wav,m_Y4F,80,53.0,50,disgust
+4,356,av,Stimuli/Face Stimuli/formal_gray/m_Y58M_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_20.wav,m_Y58M,50,6.0,20,angry
+4,357,av,Stimuli/Face Stimuli/formal_gray/m_Y24M_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_80.wav,m_Y24M,20,42.0,80,angry
+4,358,av,Stimuli/Face Stimuli/formal_gray/m_Y58M_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_80.wav,m_Y58M,20,6.0,80,angry
+4,359,av,Stimuli/Face Stimuli/formal_gray/m_Y4F_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_80.wav,m_Y4F,50,53.0,80,disgust
+4,360,av,Stimuli/Face Stimuli/formal_gray/m_Y59F_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_20.wav,m_Y59F,20,58.0,20,angry
+5,361,av,Stimuli/Face Stimuli/formal_gray/m_Y58M_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_80.wav,m_Y58M,80,6.0,80,disgust
+5,362,av,Stimuli/Face Stimuli/formal_gray/m_Y24M_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_20.wav,m_Y24M,50,42.0,20,angry
+5,363,av,Stimuli/Face Stimuli/formal_gray/m_Y24M_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_20.wav,m_Y24M,20,42.0,20,angry
+5,364,av,Stimuli/Face Stimuli/formal_gray/m_Y59F_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_20.wav,m_Y59F,80,58.0,20,disgust
+5,365,av,Stimuli/Face Stimuli/formal_gray/m_Y59F_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_50.wav,m_Y59F,20,58.0,50,disgust
+5,366,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_50.wav,None,None,53.0,50,disgust
+5,367,av,Stimuli/Face Stimuli/formal_gray/m_Y57M_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_20.wav,m_Y57M,80,59.0,20,angry
+5,368,av,Stimuli/Face Stimuli/formal_gray/m_Y24M_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_20.wav,m_Y24M,80,42.0,20,disgust
+5,369,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_20.wav,None,None,60.0,20,angry
+5,370,vision,Stimuli/Face Stimuli/formal_gray/m_Y59F_50.jpg,None,m_Y59F,50,None,None,disgust
+5,371,av,Stimuli/Face Stimuli/formal_gray/m_Y6F_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_50.wav,m_Y6F,20,60.0,50,angry
+5,372,av,Stimuli/Face Stimuli/formal_gray/m_Y4F_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_50.wav,m_Y4F,20,53.0,50,angry
+5,373,vision,Stimuli/Face Stimuli/formal_gray/m_Y58M_50.jpg,None,m_Y58M,50,None,None,angry
+5,374,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_80.wav,None,None,59.0,80,disgust
+5,375,av,Stimuli/Face Stimuli/formal_gray/m_Y24M_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_80.wav,m_Y24M,50,42.0,80,angry
+5,376,av,Stimuli/Face Stimuli/formal_gray/m_Y6F_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_80.wav,m_Y6F,80,60.0,80,disgust
+5,377,av,Stimuli/Face Stimuli/formal_gray/m_Y59F_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_20.wav,m_Y59F,20,58.0,20,disgust
+5,378,av,Stimuli/Face Stimuli/formal_gray/m_Y59F_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_50.wav,m_Y59F,80,58.0,50,disgust
+5,379,av,Stimuli/Face Stimuli/formal_gray/m_Y57M_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_20.wav,m_Y57M,20,59.0,20,angry
+5,380,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_50.wav,None,None,59.0,50,angry
+5,381,vision,Stimuli/Face Stimuli/formal_gray/m_Y4F_50.jpg,None,m_Y4F,50,None,None,angry
+5,382,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_50.wav,None,None,60.0,50,disgust
+5,383,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_20.wav,None,None,59.0,20,angry
+5,384,av,Stimuli/Face Stimuli/formal_gray/m_Y58M_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_50.wav,m_Y58M,80,6.0,50,angry
+5,385,vision,Stimuli/Face Stimuli/formal_gray/m_Y4F_20.jpg,None,m_Y4F,20,None,None,angry
+5,386,vision,Stimuli/Face Stimuli/formal_gray/m_Y59F_80.jpg,None,m_Y59F,80,None,None,disgust
+5,387,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_50.wav,None,None,6.0,50,angry
+5,388,av,Stimuli/Face Stimuli/formal_gray/m_Y6F_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_80.wav,m_Y6F,50,60.0,80,disgust
+5,389,av,Stimuli/Face Stimuli/formal_gray/m_Y6F_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_20.wav,m_Y6F,80,60.0,20,angry
+5,390,av,Stimuli/Face Stimuli/formal_gray/m_Y57M_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_50.wav,m_Y57M,50,59.0,50,angry
+5,391,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_80.wav,None,None,42.0,80,angry
+5,392,av,Stimuli/Face Stimuli/formal_gray/m_Y59F_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_80.wav,m_Y59F,50,58.0,80,disgust
+5,393,av,Stimuli/Face Stimuli/formal_gray/m_Y58M_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_50.wav,m_Y58M,50,6.0,50,angry
+5,394,av,Stimuli/Face Stimuli/formal_gray/m_Y59F_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_80.wav,m_Y59F,20,58.0,80,disgust
+5,395,av,Stimuli/Face Stimuli/formal_gray/m_Y58M_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_80.wav,m_Y58M,20,6.0,80,angry
+5,396,vision,Stimuli/Face Stimuli/formal_gray/m_Y57M_20.jpg,None,m_Y57M,20,None,None,angry
+5,397,av,Stimuli/Face Stimuli/formal_gray/m_Y6F_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_20.wav,m_Y6F,50,60.0,20,angry
+5,398,vision,Stimuli/Face Stimuli/formal_gray/m_Y4F_80.jpg,None,m_Y4F,80,None,None,disgust
+5,399,av,Stimuli/Face Stimuli/formal_gray/m_Y24M_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_50.wav,m_Y24M,50,42.0,50,disgust
+5,400,av,Stimuli/Face Stimuli/formal_gray/m_Y24M_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_50.wav,m_Y24M,80,42.0,50,disgust
+5,401,av,Stimuli/Face Stimuli/formal_gray/m_Y4F_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_80.wav,m_Y4F,80,53.0,80,disgust
+5,402,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_80.wav,None,None,60.0,80,disgust
+5,403,vision,Stimuli/Face Stimuli/formal_gray/m_Y58M_20.jpg,None,m_Y58M,20,None,None,angry
+5,404,vision,Stimuli/Face Stimuli/formal_gray/m_Y24M_50.jpg,None,m_Y24M,50,None,None,disgust
+5,405,av,Stimuli/Face Stimuli/formal_gray/m_Y4F_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_50.wav,m_Y4F,50,53.0,50,disgust
+5,406,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_20.wav,None,None,53.0,20,angry
+5,407,av,Stimuli/Face Stimuli/formal_gray/m_Y59F_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_50.wav,m_Y59F,50,58.0,50,disgust
+5,408,vision,Stimuli/Face Stimuli/formal_gray/m_Y24M_80.jpg,None,m_Y24M,80,None,None,disgust
+5,409,av,Stimuli/Face Stimuli/formal_gray/m_Y59F_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_80.wav,m_Y59F,80,58.0,80,disgust
+5,410,av,Stimuli/Face Stimuli/formal_gray/m_Y57M_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_80.wav,m_Y57M,20,59.0,80,angry
+5,411,vision,Stimuli/Face Stimuli/formal_gray/m_Y6F_50.jpg,None,m_Y6F,50,None,None,angry
+5,412,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_80.wav,None,None,58.0,80,disgust
+5,413,av,Stimuli/Face Stimuli/formal_gray/m_Y4F_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_20.wav,m_Y4F,20,53.0,20,angry
+5,414,av,Stimuli/Face Stimuli/formal_gray/m_Y6F_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_50.wav,m_Y6F,80,60.0,50,disgust
+5,415,av,Stimuli/Face Stimuli/formal_gray/m_Y58M_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_20.wav,m_Y58M,50,6.0,20,angry
+5,416,av,Stimuli/Face Stimuli/formal_gray/m_Y4F_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_20.wav,m_Y4F,50,53.0,20,angry
+5,417,av,Stimuli/Face Stimuli/formal_gray/m_Y58M_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_50.wav,m_Y58M,20,6.0,50,angry
+5,418,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_80.wav,None,None,6.0,80,angry
+5,419,av,Stimuli/Face Stimuli/formal_gray/m_Y6F_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_20.wav,m_Y6F,20,60.0,20,angry
+5,420,av,Stimuli/Face Stimuli/formal_gray/m_Y4F_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_50.wav,m_Y4F,80,53.0,50,disgust
+5,421,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_20.wav,None,None,42.0,20,angry
+5,422,av,Stimuli/Face Stimuli/formal_gray/m_Y57M_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_80.wav,m_Y57M,80,59.0,80,disgust
+5,423,av,Stimuli/Face Stimuli/formal_gray/m_Y4F_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_20.wav,m_Y4F,80,53.0,20,angry
+5,424,vision,Stimuli/Face Stimuli/formal_gray/m_Y6F_20.jpg,None,m_Y6F,20,None,None,angry
+5,425,av,Stimuli/Face Stimuli/formal_gray/m_Y59F_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_20.wav,m_Y59F,50,58.0,20,angry
+5,426,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_20.wav,None,None,58.0,20,angry
+5,427,av,Stimuli/Face Stimuli/formal_gray/m_Y24M_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_50.wav,m_Y24M,20,42.0,50,angry
+5,428,av,Stimuli/Face Stimuli/formal_gray/m_Y24M_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_80.wav,m_Y24M,80,42.0,80,disgust
+5,429,av,Stimuli/Face Stimuli/formal_gray/m_Y24M_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_80.wav,m_Y24M,20,42.0,80,angry
+5,430,vision,Stimuli/Face Stimuli/formal_gray/m_Y6F_80.jpg,None,m_Y6F,80,None,None,angry
+5,431,av,Stimuli/Face Stimuli/formal_gray/m_Y58M_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_80.wav,m_Y58M,50,6.0,80,angry
+5,432,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_80.wav,None,None,53.0,80,disgust
+5,433,av,Stimuli/Face Stimuli/formal_gray/m_Y57M_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_20.wav,m_Y57M,50,59.0,20,angry
+5,434,av,Stimuli/Face Stimuli/formal_gray/m_Y4F_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_80.wav,m_Y4F,50,53.0,80,disgust
+5,435,av,Stimuli/Face Stimuli/formal_gray/m_Y57M_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_50.wav,m_Y57M,80,59.0,50,disgust
+5,436,av,Stimuli/Face Stimuli/formal_gray/m_Y6F_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_50.wav,m_Y6F,50,60.0,50,disgust
+5,437,vision,Stimuli/Face Stimuli/formal_gray/m_Y58M_80.jpg,None,m_Y58M,80,None,None,angry
+5,438,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/58_female_anger-disgust_50.wav,None,None,58.0,50,disgust
+5,439,av,Stimuli/Face Stimuli/formal_gray/m_Y4F_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/53_female_anger-disgust_80.wav,m_Y4F,20,53.0,80,disgust
+5,440,av,Stimuli/Face Stimuli/formal_gray/m_Y57M_50.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_80.wav,m_Y57M,50,59.0,80,disgust
+5,441,vision,Stimuli/Face Stimuli/formal_gray/m_Y59F_20.jpg,None,m_Y59F,20,None,None,disgust
+5,442,vision,Stimuli/Face Stimuli/formal_gray/m_Y57M_50.jpg,None,m_Y57M,50,None,None,disgust
+5,443,vision,Stimuli/Face Stimuli/formal_gray/m_Y57M_80.jpg,None,m_Y57M,80,None,None,disgust
+5,444,vision,Stimuli/Face Stimuli/formal_gray/m_Y24M_20.jpg,None,m_Y24M,20,None,None,angry
+5,445,av,Stimuli/Face Stimuli/formal_gray/m_Y58M_80.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_20.wav,m_Y58M,80,6.0,20,angry
+5,446,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/42_male_anger-disgust_50.wav,None,None,42.0,50,angry
+5,447,av,Stimuli/Face Stimuli/formal_gray/m_Y58M_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_20.wav,m_Y58M,20,6.0,20,angry
+5,448,av,Stimuli/Face Stimuli/formal_gray/m_Y6F_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/60_female_anger-disgust_80.wav,m_Y6F,20,60.0,80,angry
+5,449,auditory,None,Stimuli/Voice Stimuli/formal_after_preprocess/6_male_anger-disgust_20.wav,None,None,6.0,20,angry
+5,450,av,Stimuli/Face Stimuli/formal_gray/m_Y57M_20.jpg,Stimuli/Voice Stimuli/formal_after_preprocess/59_male_anger-disgust_50.wav,m_Y57M,20,59.0,50,angry
